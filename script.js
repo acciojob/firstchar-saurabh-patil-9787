@@ -7,5 +7,7 @@ function firstChar(s) {
 
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
-const text = prompt("Enter text:")
+const s = prompt("Enter text:")
+
+
 alert(firstChar(s));
